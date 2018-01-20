@@ -6,8 +6,6 @@
 
 /* 
  * File:   main.c
- * 
- * Section 1.1
  * Author: Michael Wang
  *
  * Created on January 20, 2018, 1:11 PM
@@ -17,7 +15,7 @@
 #include <stdlib.h>
 
 /*
- * 
+ * Section 1.1
  */
 int main(int argc, char** argv) {
     printf("hello world \n");
